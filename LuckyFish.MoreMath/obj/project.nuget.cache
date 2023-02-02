@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9m4r2Cf4m4H91N+fxw0CZnXNbpsxwQjSsE/oKe5KyqHnfQ9MN3PXYRFD/KlL+iHyMI+UGNPFmVRb3yb8sFGsA==",
+  "success": true,
+  "projectFilePath": "/home/luckyfish/RiderProjects/LuckyFish.MoreMath/LuckyFish.MoreMath/LuckyFish.MoreMath.csproj",
+  "expectedPackageFiles": [
+    "/home/luckyfish/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
